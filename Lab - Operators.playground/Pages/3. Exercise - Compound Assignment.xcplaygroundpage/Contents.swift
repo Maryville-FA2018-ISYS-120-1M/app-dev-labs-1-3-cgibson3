@@ -1,8 +1,3 @@
-/*:
- ## Exercise - Compound Assignment
- 
- Declare a variable whose value begins at 10. Using addition, update the value to 15 using the compound assignment operator. Using multiplication, update the value to 30 using compound assignment. Print out the variable's value after each assignment.
- */
 
 
 /*:
@@ -16,9 +11,10 @@
  
  Print the balance of your piggy bank after each step.
  */
-
-
-
-
-
+let piggyBank = 0
+piggyBank + 10
+piggyBank + 20
+piggyBank / 2
+piggyBank * 3
+piggyBank - 3
 //: [Previous](@previous)  |  page 3 of 8  |  [Next: App Exercise - Counting](@next)
