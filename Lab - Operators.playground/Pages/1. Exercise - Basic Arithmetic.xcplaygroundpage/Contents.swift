@@ -52,5 +52,5 @@ let diameter = 2 * radius
 let circumfrence = 2 * pi * radius
 print (diameter)
 print (circumfrence)
-// good jon
+// good job
 //: page 1 of 8  |  [Next: App Exercise - Fitness Calculations](@next)
